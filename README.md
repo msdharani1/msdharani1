@@ -1,4 +1,4 @@
-# Hi there, I'm MS Dharani 👋
+# Hi there, I'm Tharani M👋
 
 💻 **Aspiring Web Developer | Software Developer in Progress | Tech Enthusiast**
 
