@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I'm an enthusiastic web developer with a passion f
 
 ### Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=LinkedIn&logoColor=white)](https://linkedin.com/in/tharani-m-frontend-dev)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=LinkedIn&logoColor=white)](https://linkedin.com/in/tharanimca)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=GitHub&logoColor=white)](https://github.com/msdharani1)
 
 ---
