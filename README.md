@@ -179,13 +179,19 @@ const tharani = {
 ## 📊 GitHub Stats
 
 <div align="center">
-    
-<img src="https://github-readme-stats.vercel.app/api?username=msdharani1&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=FFFFFF" alt="GitHub Stats" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=msdharani1&theme=radical&hide_border=true&background=0D1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88" alt="GitHub Streak" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msdharani1&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=FFFFFF" alt="Top Languages" width="49%" />
+<a href="https://github.com/msdharani1">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=msdharani1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msdharani1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=FFFFFF"/>
+</a>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=msdharani1&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF88&line=0088FF&point=FFFFFF" alt="Contribution Graph" width="98%" />
+<a href="https://github.com/msdharani1">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=msdharani1&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88" alt="GitHub Streak"/>
+</a>
+
+<a href="https://github.com/msdharani1">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=msdharani1&bg_color=0d1117&color=00ff88&line=0088ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
+</a>
 
 </div>
 
@@ -195,7 +201,9 @@ const tharani = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=msdharani1&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" width="100%" />
+<a href="https://github.com/msdharani1">
+  <img src="https://github-profile-trophy.vercel.app/?username=msdharani1&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
+</a>
 
 </div>
 
@@ -224,11 +232,11 @@ const tharani = {
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/msdharani1/msdharani1/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/msdharani1/msdharani1/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/msdharani1/msdharani1/output/github-contribution-grid-snake.svg">
-</picture>
+**Alternative:** Here's your contribution calendar:
+
+<a href="https://github.com/msdharani1">
+  <img src="https://ghchart.rshah.org/00FF88/msdharani1" alt="GitHub Contribution Chart"/>
+</a>
 
 </div>
 
